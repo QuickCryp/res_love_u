@@ -1,0 +1,4 @@
+1) python main.py
+
+------------------------------------------
+Разработчик: https://t.me/randomlywebban
